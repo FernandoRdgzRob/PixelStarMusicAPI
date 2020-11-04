@@ -1,0 +1,7 @@
+Dentro de este repositorio va:
+
+* API 
+    * Inicio de sesión
+    * Registro de usuarios
+
+* Datos Spotify
